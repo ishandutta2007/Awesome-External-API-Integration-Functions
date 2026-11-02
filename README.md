@@ -4,10 +4,14 @@
 
 # ⚡ Awesome External API Integration & Functions 🌐
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Follow on GitHub](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=social)](https://github.com/ishandutta2007)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 > 🌟 **A curated directory of top External API Integration and Serverless Functions platforms** — featuring enterprise cloud SaaS providers, global edge execution networks, and battle-tested open-source self-hosted FaaS engines for high-performance API orchestration and event-driven computing.  
 > 🌟 *Star this repository if you find it valuable!* 🌟
@@ -23,6 +27,8 @@
   - [⭐ Open-Source Solutions Ranked by GitHub Stars](#-open-source-solutions-ranked-by-github-stars)
   - [🛠️ Deep-Dive Open-Source Engine Profiles](#-deep-dive-open-source-engine-profiles)
 - [📊 Feature Matrix & Architecture Comparison](#-feature-matrix--architecture-comparison)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -239,6 +245,24 @@ Self-hosted, transparent, and community-driven serverless platforms. All project
 | **Data / ML FaaS OSS** | Nuclio | HTTP, Kafka, Kinesis, RabbitMQ, MQTT, Cron | Go, Python, Java, Node.js, Shell | Kubernetes / Docker |
 | **Cloud-Native OSS** | OpenFunction | HTTP, KEDA Triggers, Dapr Bindings | Go, Node.js, Python, Java | Kubernetes Cluster |
 | **Python Tooling OSS** | Zappa | API Gateway, ALB, S3 Events, SNS, SES, DynamoDB | Python (WSGI / ASGI) | AWS Lambda Serverless |
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-External-API-Integration-Functions&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-External-API-Integration-Functions&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing this curated directory! Maintaining high-quality, up-to-date benchmarks of serverless architectures, external API integrations, and developer tooling requires continuous research and dedication.
+
+If you find this project valuable, here are a few meaningful ways you can support:
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** by adding new tools, updates, and benchmark observations.
+- 📢 **Share with colleagues & developer communities** on social media, blogs, or tech forums.
+- ☕ **Buy me a coffee & sponsor my open-source work**: Support sustained maintenance via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+Your support and contributions keep this repository thriving and freely accessible to everyone in the engineering community! 🚀
 
 ---
 
