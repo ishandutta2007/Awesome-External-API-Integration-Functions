@@ -24,7 +24,7 @@
   - [🏢 Enterprise SaaS Comparison Table](#-enterprise-saas-comparison-table)
   - [🔍 Deep-Dive SaaS Profiles](#-deep-dive-saas-profiles)
 - [🟩 Open-Source Serverless & API Runtimes](#-open-source-serverless--api-runtimes)
-  - [⭐ Open-Source Solutions Ranked by GitHub Stars](#-open-source-solutions-ranked-by-github-stars)
+  - [⭐ Open-Source Solutions Ranked by GitHub_Stars](#-open-source-solutions-ranked-by-github-stars)
   - [🛠️ Deep-Dive Open-Source Engine Profiles](#-deep-dive-open-source-engine-profiles)
 - [📊 Feature Matrix & Architecture Comparison](#-feature-matrix--architecture-comparison)
 - [⭐ Star History](#-star-history)
@@ -121,9 +121,9 @@ Commercial, managed Function-as-a-Service (FaaS) and API integration platforms o
 
 Self-hosted, transparent, and community-driven serverless platforms. All projects are sorted strictly by **GitHub Stargazer Count (descending)** and include direct social badges linking to their stargazers page.
 
-### ⭐ Open-Source Solutions Ranked by GitHub Stars
+### ⭐ Open-Source Solutions Ranked by GitHub_Stars
 
-| Repository | GitHub Stars Badge | Primary Language / Stack | License | Core Focus |
+| Repository | GitHub_Stars_Badge | Primary Language / Stack | License | Core Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Fair-Code (Sustainable Use License) | Visual workflow automation & external API integration orchestrator |
 | **[LocalStack](https://github.com/localstack/localstack)** | [![LocalStack Stars](https://img.shields.io/github/stars/localstack/localstack?style=social&color=white)](https://github.com/localstack/localstack/stargazers) | Python / Docker | Apache-2.0 (Core) | Fully functional local AWS cloud stack & Lambda runtime emulator |
@@ -273,7 +273,7 @@ Contributions and additions are enthusiastically welcomed! 🚀 If you maintain 
 ### 📝 Submission Checklist
 1. **Repository Link:** Ensure the project is active (commits or releases within the past 12 months).
 2. **Open-Source License:** Must possess a recognized OSI-compatible or source-available license.
-3. **Format & Consistency:** Include star badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
+3. **Format & Consistency:** Include Stars_Badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
 4. **Detail Profile:** Add a 1–2 sentence description emphasizing core capabilities and best-fit use cases.
 
 ---
